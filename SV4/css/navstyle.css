@@ -1,0 +1,48 @@
+.img{
+    margin: auto;
+    padding-left: 20px;
+}
+header {
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background: #333;
+}
+nav a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+nav a:hover {
+    background: #4d4c4c;
+    color: black;
+}
+.content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.containermt-5 {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    flex: 1 1 300px; /* Aquí utilizamos un ajuste para la caja responsiva, lo que significa que en esta caja puede crecer o encogerse, pero nunca será más pequeña de 300px.*/
+    margin: 10px;
+    padding: 20px;
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+    nav {
+        flex-direction: column;
+    }
+}

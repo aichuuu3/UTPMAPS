@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>salones</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="crossorigin=""/>
+    <link rel="stylesheet" href="css/salones.css">
+</head>
+<body>
+    <div class="containermt-5">
+        <div id="navbar-container">
+            <!--no rellenar esto xd-->
+        </div> 
+        <br>
+        
+    </div>
+
+    <div class="contenedor-principal"> 
+        <div class="formulario-contenedor">
+            <form id="formulario">
+                <h1>Salones</h1>
+                <div id="facultadesContainer">
+                    <label for="facultad">Facultades</label>
+                    <select id="facultad" onchange="MostrarFacultades(this)">
+                        <option value="" disabled selected>Selecciona una Facultad</option>
+                        <option value="facultad">Ingeniería de Sistemas Computacionales</option>
+                    </select>
+                </div>
+                <div id="salonesContainer">
+                    <label for="salon">Salones</label>
+                    <select id="salon" onchange="GenerarLocalizacion(this)" size="5">
+                    </select>
+                </div>
+            </form>
+        </div>
+        <div class="mapa-contenedor">
+            <div id="mapa" >
+
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function loadNavbar(){
+            //realiza una petición http
+            fetch('navbarMapa.html')
+            .then(response =>{
+                if(!response.ok){
+                    throw new Error("Error " + response.status);
+                }
+                return response.text();
+            }).then(data=>
+            {
+                document.getElementById("navbar-container").innerHTML=data;
+            }
+            ).catch(console.error("Error al cargar el navbar ",err));
+        }
+        window.onload=loadNavbar;
+    </script>
+
+
+    <script 
+        src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="">
+    </script>
+    <script src="JS/salones.js"></script>
+</body>
+</html>

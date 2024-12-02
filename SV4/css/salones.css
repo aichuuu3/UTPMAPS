@@ -1,0 +1,126 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../img/fondo341.png');
+    background-size: cover; /*que la imagen ocupe toda la pantalla*/
+    background-position: center; /*centrada*/
+    background-repeat: repeat; /*repetición*/
+}
+
+.contenedor-principal {
+    margin: auto;
+    overflow: hidden;
+    display: flex; 
+    padding-left: 2%;
+    padding-right: 4%;
+    width: 100%;
+    max-width: 1300px;  /*en este limita el ancho máximo*/
+    height: 480px;
+    box-sizing: border-box;
+}
+
+@media (max-width: 600px) {
+    .contenedor-principal {
+        flex-direction: column; /*cambia a diseño vertical*/
+        height: auto; /*se adapta al contenido*/
+    }
+
+    .formulario-contenedor {
+        margin-bottom: 10px; /*espacio entre el formulario y el mapa*/
+    }
+
+    #mapa {
+        height: 50vh; /*el mapa ocupa la mitad de la altura de la pantalla*/
+    }
+}
+
+#navbar-container {
+    margin: 0;
+    padding: 0;
+}
+
+.formulario-contenedor{
+    
+    flex: 1;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+#formulario {
+    height: 100%; 
+    width: 100%; 
+    max-width: 100%; 
+    background-color:#ffffff; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    padding: 20px;
+}
+
+.mapa-contenedor{
+    flex: 2; 
+    justify-content: flex-end; 
+    align-items: center; 
+    width: 100%; 
+    height: 100%; 
+    padding: 0px;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+}
+
+#mapa {
+    height: 480px;
+    width: 670px;
+    width: 100%; /*usa un ancho relativo al contenedor*/
+    max-width: 860px; /*mantén un límite máximo*/
+    border: 2px solid purple; /*un bordecito moradito*/
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+#btnAccion {
+    margin-bottom: 20px; 
+}
+
+
+#provincia {
+    margin-top: 10px; 
+
+}
+
+h1 {
+    text-align: center;
+    color: #072703;
+    margin-bottom: 50px;
+
+}
+
+label {
+    font-size: 16px;
+    margin-top: 20px; 
+    display: block;
+    color: #333;
+}
+
+select {
+    width: 328px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #000000; 
+    border-radius: 4px;
+    font-size: 16px;
+    
+}
+
+#salonesContainer {
+    display: none;
+}
+
+.oculto {
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+}

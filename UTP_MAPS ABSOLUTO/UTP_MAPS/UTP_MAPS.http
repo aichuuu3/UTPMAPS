@@ -1,0 +1,6 @@
+@UTP_MAPS_HostAddress = http://localhost:5076
+
+##GET {{UTP_MAPS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+

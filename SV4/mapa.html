@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UTPMaps</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="crossorigin=""/>
+     <link rel="stylesheet" href="css/mapa.css">
+</head>
+<body>
+    <div class="containermt-5">
+        <div id="navbar-container">
+            <!--no rellenar esto xd-->
+        </div>
+        <div class="mini-cajita">
+            <form>
+                <div class="op">
+                    <input type="radio" id="op1" onchange="generarLocalizacion(this)"><label for="op1"><strong>Edificio 1</strong></label>
+                    <input type="radio" id="op3" onchange="generarLocalizacion(this)"><label for="op3"><strong>Edificio 3</strong></label>
+                    <input type="radio" id="op4" onchange="generarLocalizacion(this)"><label for="op4"><strong>Edificio 4</strong></label>
+                    <input type="radio" id="opPost" onchange="generarLocalizacion(this)"><label for="opPost"><strong>Edificio Postgrado</strong></label>
+                </div>   
+            </form>     
+        </div>
+        <br>
+        <!--mapa-->
+        <div id="contenedormapeo">
+            <div id="mapita">
+                
+            </div>
+        </div>
+    </div>
+    <script>
+        function loadNavbar(){
+            //realiza una petición http
+            fetch('navbarMapa.html')
+            .then(response =>{
+                if(!response.ok){
+                    throw new Error("Error " + response.status);
+                }
+                return response.text();
+            }).then(data=>
+            {
+                document.getElementById("navbar-container").innerHTML=data;
+            }
+            ).catch(console.error("Error al cargar el navbar ",err));
+        }
+        window.onload=loadNavbar;
+    </script>
+    <script 
+        src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="">
+    </script>
+    <script src="JS/mapa.js"></script>
+</body>
+</html>

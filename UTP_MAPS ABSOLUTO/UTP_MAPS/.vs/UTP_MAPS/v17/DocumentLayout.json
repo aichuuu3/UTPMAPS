@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\controllers\\iconoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:controllers\\iconoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\models\\icono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:models\\icono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\utp_maps.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:utp_maps.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\controllers\\edificioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:controllers\\edificioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\models\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:models\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\models\\edificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:models\\edificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\controllers\\salonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:controllers\\salonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\utp_maps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:utp_maps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|c:\\users\\user\\source\\repos\\utp_maps\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6322D867-E4BE-4CC3-8887-94C165E1BD4F}|UTP_MAPS.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IconoesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Controllers\\IconoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IconoesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Controllers\\IconoesController.cs",
+              "RelativeToolTip": "Controllers\\IconoesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:23:44.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EdificiosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Controllers\\EdificiosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EdificiosController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Controllers\\EdificiosController.cs",
+              "RelativeToolTip": "Controllers\\EdificiosController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAADwv3UAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:23:01.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalonsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Controllers\\SalonsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalonsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Controllers\\SalonsController.cs",
+              "RelativeToolTip": "Controllers\\SalonsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:29:05.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowF0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:09:38.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:53:00.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Models\\Estudiante.cs",
+              "RelativeToolTip": "Models\\Estudiante.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:00:47.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UTP_MAPS.http",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\UTP_MAPS.http",
+              "RelativeDocumentMoniker": "UTP_MAPS.http",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\UTP_MAPS.http",
+              "RelativeToolTip": "UTP_MAPS.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-18T20:48:30.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Icono.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Models\\Icono.cs",
+              "RelativeDocumentMoniker": "Models\\Icono.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Models\\Icono.cs",
+              "RelativeToolTip": "Models\\Icono.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:13:45.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Salon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Models\\Salon.cs",
+              "RelativeDocumentMoniker": "Models\\Salon.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Models\\Salon.cs",
+              "RelativeToolTip": "Models\\Salon.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:58:41.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edificio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Models\\Edificio.cs",
+              "RelativeDocumentMoniker": "Models\\Edificio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\Models\\Edificio.cs",
+              "RelativeToolTip": "Models\\Edificio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:00:56.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T14:21:36.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UTP_MAPS.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\UTP_MAPS.csproj",
+              "RelativeDocumentMoniker": "UTP_MAPS.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\UTP_MAPS.csproj",
+              "RelativeToolTip": "UTP_MAPS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T22:10:13.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UTP_MAPS\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T21:30:58.464Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

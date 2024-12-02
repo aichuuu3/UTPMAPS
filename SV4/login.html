@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/login.css">
+    <title>Login</title>
+</head>
+<body>
+    <div class="contenedor">
+
+        <!-- Encabezado -->
+        <div class="header">
+            <img src="img/UTPLogo.png" class="UTPLogo"> 
+            <img src="img/FISCLogo.png" class="UTPFISCLogo"> 
+
+            <!-- Barra de navegación -->
+            <nav class="navbar">
+                <ul>
+                    <li><a href="salir.html">Salir</a></li>
+                    <li><a href="matricula.html">Matrícula</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <!-- Contenido principal -->
+        <div class="body">
+
+            <div class="contenido">
+
+                <div class="fondo">
+
+                </div>
+
+                <div class="container">
+                    <div class="content"></div>
+                    <div class="logreg-box">
+                        <div class="form-box login">
+                            <form action="#" id="formJi">
+                                <h2>Iniciar Sesión</h2>
+                                <div class="input-box">
+                                    <span class="icon"><img src="img/emailIcono.png"></span>
+                                    <input type="email" id="valiEmail" required>
+                                    <label>Email</label>
+                                </div>
+            
+                                <div class="input-box">
+                                    <span class="icon"><img src="img/contrasenaIcono.png"></span>
+                                    <input type="password" id="validar" required>
+                                    <label>Contraseña</label>
+                                </div>
+                                
+                                <button type="submit" class="btn">Ingresar</button>
+                                <p id="mensaje"></p><!--onclick=validarEmail()-->
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Pie de página -->
+        <div class="footer">
+            <p>&copy; 2024 UTP MAPS. Todos los derechos reservados.</p>
+        </div>
+    </div>
+</body>
+<script src="JS/api1.js"></script>
+</html>
